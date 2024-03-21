@@ -91,12 +91,10 @@
     "convert-source-map": "^2.0.0",
     "invariant": "^2.2.4"
   },
-  "peerDependencies": {
-    "@babel/core": "^7.0.0-0",
-    "react": "*",
-    "react-native": "*"
-  },
   "devDependencies": {
+    "@babel/core": "^7.0.0-0",
+    "react": "18.2.0",
+    "react-native": "0.73.6",
     "@babel/cli": "^7.20.0",
     "@babel/core": "^7.20.0",
     "@babel/preset-env": "^7.20.0",
@@ -140,8 +138,6 @@
     "lint-staged": "^11.2.0",
     "madge": "^5.0.1",
     "prettier": "^2.5.1",
-    "react": "17.0.2",
-    "react-native": "0.73.4",
     "react-native-builder-bob": "^0.18.3",
     "react-native-gesture-handler": "^2.13.2",
     "react-native-web": "~0.18.12",
